@@ -7,13 +7,18 @@
  */
  
 p {
-    property: value;
+	color: #FFFFFF;
 }
 
-.class {
-    property: value;
+.table-border {
+    border: 1px solid #FFFFFF;
 }
 
-#id {
-    property:value;
+#photo-resize {
+    max-width: 200px ;
+    max-height: 250px ;
+}
+
+.photo-border {
+	border: 2px solid #008000;
 }
